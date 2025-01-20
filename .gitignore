@@ -1,0 +1,66 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS and Editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Build files
+dist/
+build/
+out/
+coverage/
+
+# Dependency directories
+library-app/node_modules/
+library-server/node_modules/
+
+# Cypress generated files
+library-app/cypress/screenshots/
+library-app/cypress/videos/
+library-app/cypress/downloads/
+
+# Babel cache
+.babelrc
+.babelrc.js
+.babelrc.json
+.babel.config.json
+.babel.config.js
+.browserslistrc
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+coverage/
+library-server/tests/**/__snapshots__/
+
+# Generated files
+library-app/public/vite.svg
+library-app/package-lock.json
+library-server/package-lock.json
+
+# Drafts and personal files
+draft.txt
+software backend.txt
+software frontend.txt
