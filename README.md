@@ -38,16 +38,6 @@ The Library Management System is a full-stack web application designed to simpli
 - **Jest**: Unit testing for individual components and backend logic.
 
 
-
-## **Project Structure**
-
-```
-📁 LIBRARY-SYSTEM
-├── 📁 library-app       # Frontend Application
-├── 📁 library-server    # Backend Server
-└── 📁 tests             # Testing Files
-```
-
 ## **Demo Video**
 Watch the demo video showcasing the website in action:  
 [**Project Demo Video**](https://drive.google.com/file/d/1DHizXkcDiS739jaE7hjaCa2mLUHSYRJ2/view?usp=sharing)
